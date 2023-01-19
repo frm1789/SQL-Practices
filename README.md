@@ -5,3 +5,4 @@
     - Sorting and Substring(String, position, # to be returned). 
     - Create Views.
     - Translate Function: to replace individual characters of the string by others
+    - Dealing with Nulls When Sorting
